@@ -3,7 +3,6 @@
 #include <cmath>
 #include <algorithm>
 
-
 using namespace std;
 
 void merge(int* array, unsigned int left, unsigned int mid, unsigned int right);
